@@ -16,19 +16,22 @@ Spent some time customizing the UI with a new color scheme and app icon and crea
 
 ### Walkthrough of all user stories
 
-**Launching the App**
+#####Launching the App
 
 ![Bill Amount User Input](anim_launch_app.gif)
 
-**Typing the bill amount**
+
+#####Typing the bill amount
 
 ![Bill Amount User Input](anim_bill_amount_input.gif)
 
-**Selecting from different tip percentage options**
+
+#####Selecting from different tip percentage options
 
 ![Tip Percentage Options](anim_tip_percentage_options.gif)
 
-**Splitting the bill amount for two to five people**
+
+#####Splitting the bill amount for two to five people
 
 ![Split Bill](anim_split_bill.gif)
 
